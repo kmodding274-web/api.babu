@@ -1,0 +1,249 @@
+{
+  "code": 200,
+  "message": "Shows List",
+  "data": {
+    "content": [
+      {
+        "id": "3340",
+        "title": "The Hacker King: Origin",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/The_Hacker_King_origin/CV/STV/360_480_Hacker King_origin.webp",
+        "metadata": {
+          "genre": "Alpha Male",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "52",
+          "watchedEpisodes": null,
+          "vc": "8.9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3340/127586/21010491/master.m3u8?hdnts=exp=1785365858~hmac=328feb2c837e11d1b130e27437a951969abc8c6d7ce68a2cda2183c91f75a42d"
+      },
+      {
+        "id": "3325",
+        "title": "Saaya One Man Army",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Saaya/CV/STV/360_480_Saaya_one_man_army.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity",
+            "Power Struggle",
+            "Workplace Romance"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "46",
+          "watchedEpisodes": null,
+          "vc": "7.8M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3325/124321/b6860f06/master.m3u8?hdnts=exp=1785365858~hmac=961eb3731fdab50e70e804894f05ecfdf307d32b3ec9e8b910baacccf05cd446"
+      },
+      {
+        "id": "2923",
+        "title": "Delivery Boy Ki Samay Yatra",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Delivery_Boy_Ki_Samay_Yatra/CV/STV/360_480_Delivery_Boy_Ki_Samay_Yatra.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Rags to Riches",
+            "Second Chance",
+            "Strong Female Lead"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "45",
+          "watchedEpisodes": null,
+          "vc": "10.1M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2923/115981/f3dde98c/master.m3u8?hdnts=exp=1785365858~hmac=388a9a8f8cf3f3e16881dd7b10a73d2a994c91a144ef8f05bba364231eb0eb00"
+      },
+      {
+        "id": "3545",
+        "title": "Oh My Ganesha (OMG)",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Oh_My_Ganesha/CV/STV/360_480_Oh_My_Ganesha.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "\"Supernatural Hidden Identity Romance Reunited Lovers Power Struggle Destiny / Fate\""
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "269.6K"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3545/128843/7db53324/master.m3u8?hdnts=exp=1785365858~hmac=7699593048aee300eb2f386af676229f23a2b44cef52d12ba1efaf4258dd24dd"
+      },
+      {
+        "id": "3439",
+        "title": "COD: Cash on Dulha",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/COD_Cash_On_Dulha/CV/STV/360_480_COD_cash_on_dulha.webp",
+        "metadata": {
+          "genre": "Contract Marriage",
+          "tags": [
+            "Fake Relationship / Contract Romance Enemies to Lovers / Tension Sparks Love vs. Convenience – Secret Identity / Hidden Heiress or Heir"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "1.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3439/128515/dc2062e9/master.m3u8?hdnts=exp=1785365858~hmac=46d352e68a2e3210b6e6493876293e21a51f9b73c403bda486ddf59b120c62c2"
+      },
+      {
+        "id": "3531",
+        "title": "Intern vs CEO",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Intern_vs_CEO/CV/STV/360_480_Intern_Vs_Ceo.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Popular",
+            "Trending"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "10.2M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3531/126782/419cdfdd/master.m3u8?hdnts=exp=1785365858~hmac=5372a33d1e79afbb38907282dc50962776a9db95f9c86eefbe18df1c54084bfc"
+      },
+      {
+        "id": "3354",
+        "title": "Samundar ka Tycoon",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Samundar_Ka_Tycoon/CV/STV/360_480_Samundar_ka_Tycoon.webp",
+        "metadata": {
+          "genre": "Divorce",
+          "tags": [
+            "Hidden Billionaire Heir  Fake Rich vs Real Rich  Gold-Digger Girlfriend  Mistaken Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "12.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3354/119011/b3d66a77/master.m3u8?hdnts=exp=1785365858~hmac=6e0f504ca6ca088fb3fd32fc4cf28fbfde447765587e6d9d50e5a73cff2ac9f2"
+      },
+      {
+        "id": "3542",
+        "title": "Boss Lady Ka CEO",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Boss_Lady_Ka_CEO/CV/STV/360_480_Boss_Lady_Ka_CEO.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Billionaire Heir  Fake Rich vs Real Rich  Gold-Digger Girlfriend  Mistaken Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "5.1M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3542/126289/7038e96b/master.m3u8?hdnts=exp=1785365858~hmac=7c94ab19688bedd3b330696df7efe4552174f1ba2ace787da1cd08de7ad81df0"
+      },
+      {
+        "id": "3527",
+        "title": "Taqdeer Ka Johri",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Taqdeer_Ka_Johri/CV/STV/360_480_Taqdeer_Ka_Johri.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Genius Hero",
+            "Rise to Power",
+            "Love After Betrayal",
+            "Rich vs Poor",
+            "Fortune",
+            "Mystery",
+            "Collector World",
+            "Family Drama",
+            "Redemption",
+            "Success Journey",
+            "Secret Power",
+            "Priceless Treasure",
+            "CEO Romance",
+            "Comeback"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "47",
+          "watchedEpisodes": null,
+          "vc": "5.9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3527/127194/4205ddf3/master.m3u8?hdnts=exp=1785365858~hmac=294709d8cbadb5c79646543340018411ae60785a7f56e0c4131a92bdd74e1412"
+      },
+      {
+        "id": "2784",
+        "title": "Hanuman Avtar",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Hanuman_Avtar/CV/STV/360_480_Hanuman_Avtar.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "Supernatural",
+            "Devotion",
+            "Divine Blessing",
+            "Family Drama",
+            "Faith",
+            "Emotional",
+            "Spiritual",
+            "Hidden Advantage"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "10.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2784/113261/fb83faca/master.m3u8?hdnts=exp=1785365858~hmac=1c8c14da55db29b64d023532e7fd2d1a7c7a50f78bb94e3fc28d4f1cf597e584"
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "empty": true,
+        "sorted": false,
+        "unsorted": true
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 10,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "first": true,
+    "numberOfElements": 10,
+    "empty": false
+  }
+}

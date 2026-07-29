@@ -1,0 +1,463 @@
+{
+  "code": 200,
+  "message": "Shows List",
+  "data": {
+    "content": [
+      {
+        "id": "3545",
+        "title": "Oh My Ganesha (OMG)",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Oh_My_Ganesha/CV/STV/360_480_Oh_My_Ganesha.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "\"Supernatural Hidden Identity Romance Reunited Lovers Power Struggle Destiny / Fate\""
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "269.6K"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3545/128843/7db53324/master.m3u8?hdnts=exp=1785365853~hmac=ed84870b2ef0875f7315d078922a067a569f7952cfc1c9a29c055d35020df905"
+      },
+      {
+        "id": "2221",
+        "title": "Raees vs Mafia",
+        "imageUrl": "https://cdn.storytv.asia/ta/Feb_2026/Raees_Vs_Mafia/Control_Variant/STV/360_480_Raees_vs_Mafia.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity",
+            "Billionaire in Disguise",
+            "Flash Marriage",
+            "Betrayal",
+            "Power Couple",
+            "Cement Mafia",
+            "Corporate Sabotage",
+            "Revenge",
+            "Identity Reveal",
+            "Rise to Power"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "45",
+          "watchedEpisodes": null,
+          "vc": "43.9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2221/56199/2c91a63c/master.m3u8?hdnts=exp=1785365853~hmac=ac721c657ba384e96996cd5a379357e2e133ce0fbce946d94eb2bac7625407eb"
+      },
+      {
+        "id": "1968",
+        "title": "Tera Boss, Mera Naukar",
+        "imageUrl": "https://cdn.storytv.asia/ta/Dec_2025_Hindi/Tera_Boss_Mera_Naukar/360_480_Tera_Boss_Mera_Naukar.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "64.6M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1968/44297/47fd19b0/master.m3u8?hdnts=exp=1785365853~hmac=e587cd1716d43f1a178776806e27ea3b96a8f04af1f5bcf52f437ce8805a732c"
+      },
+      {
+        "id": "2745",
+        "title": "Bhootni Ki Deal, Kismat Seal ",
+        "imageUrl": "https://cdn.storytv.asia/ta/April_2026/Bhootni_Ki_Deal_Kismat_Seal/CV/STV/360_480_Bhootni_Ki_Deal_Kismat_Seal.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Supernatural Rags to Riches High-Stakes Game Revenge Drama Romance Power & Inheritance Battle"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "65.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2745/89345/2d52f585/master.m3u8?hdnts=exp=1785365853~hmac=3bda3a3d8700eb7d08535ca63dc6d7867f560e736a240b20df380d666139e997"
+      },
+      {
+        "id": "2458",
+        "title": "Swayamvar Mein Dhoka",
+        "imageUrl": "https://cdn.storytv.asia/ta/March_2026/Swayamvar_Mein_Dhoka/Control_Variant/STV/360_480_Swayamvar_Mein_Dhoka.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "45.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2458/71911/442ff534/master.m3u8?hdnts=exp=1785365853~hmac=cf11a798d3a65705240281602b22bad88fdbfd47f6f91f174511321b756d7edd"
+      },
+      {
+        "id": "1983",
+        "title": "Mera Bhai Billionaire",
+        "imageUrl": "https://cdn.storytv.asia/ta/Jan_2026/Mera_Bhai_Billionaire/Control_Variant/360_480_Mera_Bhai_Billionaire.webp",
+        "metadata": {
+          "genre": "Billionaire CEO",
+          "tags": [
+            "Public humiliation"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "48.2M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1983/47151/4df0e996/master.m3u8?hdnts=exp=1785365853~hmac=f6ee17e2f11c9c6409ddd3f6e1e83954afc30bcb9fe759b805c1639ac2e25dd5"
+      },
+      {
+        "id": "2649",
+        "title": "Dhoti Wala Arabpati",
+        "imageUrl": "https://cdn.storytv.asia/ta/April_2026/Dhoti_Wala_Arabpati/CV/STV/360_480_Dhoti_wala_Arabpati.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal",
+            "New & Hot"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "40.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2649/82761/de7f3841/master.m3u8?hdnts=exp=1785365853~hmac=a2291e0c2a3b27119aff8de1ef646ed4c196837587849a2b0e57207b25762cd7"
+      },
+      {
+        "id": "2236",
+        "title": "Ishq After Divorce",
+        "imageUrl": "https://cdn.storytv.asia/ta/Feb_2026/Ishq_After_Divorce/Control_variant/STV/360_480_Ishq_After_Divorce.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "62.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2236/57211/9aae1350/master.m3u8?hdnts=exp=1785365853~hmac=b9558511c4c02a74f23b6824a12c9eb802fb6e68ffcadd21e0a31063e3321fce"
+      },
+      {
+        "id": "1952",
+        "title": "My Wife My Boss",
+        "imageUrl": "https://cdn.storytv.asia/ta/Dec_2025_Hindi/My_Wife_My_Boss/Control_Variant/360_480_My_Wife_My_Boss.webp",
+        "metadata": {
+          "genre": "Strong Female Lead",
+          "tags": [
+            "Secret Marriage Hidden Identity (Boss Wife Disguise) Rich Girl × Poor Boy Accidental / Forced Wedding"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "46",
+          "watchedEpisodes": null,
+          "vc": "40.8M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1952/45310/f35a93e9/master.m3u8?hdnts=exp=1785365853~hmac=84ae454530da1666d304312aea75c2ed882d7f56e82fa490cfdb34a80e46d400"
+      },
+      {
+        "id": "1939",
+        "title": "Family Atyachar",
+        "imageUrl": "https://cdn.storytv.asia/ta/Dec_2025_Hindi/Family_Atyachar/360_480_Family_Atyachar.webp",
+        "metadata": {
+          "genre": "Adoption",
+          "tags": [
+            "Emotional Humiliation Arc",
+            "Public Truth Revelation",
+            "Blood vs Bond"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "47",
+          "watchedEpisodes": null,
+          "vc": "23.9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1939/42782/01d4e29a/master.m3u8?hdnts=exp=1785365853~hmac=d95ca3167540722d9f3043f6f6a5b0ef0f14bc6126066024cc9d8977f336bd29"
+      },
+      {
+        "id": "3394",
+        "title": "Haseena Ka Hacker",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Haseena_Ka_Hacker/CV/STV/360_480_Haseena_Ka_Hacker.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Hidden Identity",
+            "Workplace Romance",
+            "Power Struggle"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "42",
+          "watchedEpisodes": null,
+          "vc": "9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3394/115366/bac4ecfe/master.m3u8?hdnts=exp=1785365853~hmac=4284850b26ce83e2b3c081aeeca06d6a118edf93701a86b9089f7e5e9a142f73"
+      },
+      {
+        "id": "1959",
+        "title": "Husband On Rent",
+        "imageUrl": "https://cdn.storytv.asia/ta/Dec_2025_Hindi/Husband_On_Rent/600_720_Husband_On_Rent.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "humiliation",
+            "memory loss"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "45",
+          "watchedEpisodes": null,
+          "vc": "58.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1959/43444/8726623a/master.m3u8?hdnts=exp=1785365853~hmac=0282c043a5ddf68268ea7489bad6af32634e6509479313eedb91bb49fc09577f"
+      },
+      {
+        "id": "2932",
+        "title": "Racer Boyfriend Ka Badla",
+        "imageUrl": "https://cdn.storytv.asia/ta/May_2026/Racer_Boyfriend_Ka_Badla/CV/STV/360_480_Racer_Boyfriend_Ka_Badla.webp",
+        "metadata": {
+          "genre": "Toxic Relationships",
+          "tags": [
+            "Racing Prodigy",
+            "Hidden Heir",
+            "Love Betrayal",
+            "Secret Identity",
+            "Revenge Arc",
+            "Arranged Marriage",
+            "Corporate Empire",
+            "Emotional Comeback",
+            "Second Chance",
+            "True Realization"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "59",
+          "watchedEpisodes": null,
+          "vc": "65.2M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2932/101746/a5678a9f/master.m3u8?hdnts=exp=1785365853~hmac=a41199e804d799d91a3ca8bff5f8fbadea16b4694e0df055563a19e458faceb3"
+      },
+      {
+        "id": "1933",
+        "title": "The Secret Arabpati",
+        "imageUrl": "https://cdn.storytv.asia/ta/Dec_2025_Hindi/The_Secret_Arabpati/360_480_The_Secret_Arabpati.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Hidden Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "45",
+          "watchedEpisodes": null,
+          "vc": "52.2M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/1933/44251/0e525d59/master.m3u8?hdnts=exp=1785365853~hmac=e8c20c5ea2ed115f0009a1e0cfa9dab4bf4d9feb87e513c0928c485c9d9d6f67"
+      },
+      {
+        "id": "2448",
+        "title": "Jhaaduwala Crorepati",
+        "imageUrl": "https://cdn.storytv.asia/ta/March_2026/Jhaaduwala_Crorepati/Control_Variant/STV/360_480_Jhaadu_Wala_Crorepati.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "hidden identity billionaire janitor disguise revenge arc",
+            "social humiliation public insult betrayal breakup",
+            "wedding mandap rejection drama",
+            "class divide power reversal story",
+            "mysterious CEO reveal twist identity",
+            "crores deals market influence power",
+            "underdog to powerful king transformation",
+            "emotional revenge dignity restoration arc",
+            "Indian trending billionaire hidden identity drama",
+            "status vs worth theme storyline",
+            "dramatic comeback power reveal concept"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "91.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2448/68428/9ac6417b/master.m3u8?hdnts=exp=1785365853~hmac=02ff9e63977b769a066ccb644950ce19f21b9ef7f42936023c3d30a188c7c7d2"
+      },
+      {
+        "id": "2752",
+        "title": "Crorepati Ghar Jamai\t",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Crorepati_Ghar_Jamai/CV/STV/360_480_Crorepati_Ghar_Jamai.webp",
+        "metadata": {
+          "genre": "Divorce",
+          "tags": [
+            "Hidden Billionaire Heir  Fake Rich vs Real Rich  Gold-Digger Girlfriend  Mistaken Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "50",
+          "watchedEpisodes": null,
+          "vc": "16.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2752/110534/7b5ed4fb/master.m3u8?hdnts=exp=1785365853~hmac=000dccbadf9b1e37dd0f3c8007839b0f0e5fb33a08aabe53d625ca74b9eac13a"
+      },
+      {
+        "id": "2151",
+        "title": "Mera Assistant Billionaire",
+        "imageUrl": "https://cdn.storytv.asia/ta/Feb_2026/Mera_Assistant_Billionaire/Control_Variant/STV/360_480_Mera_Assistant_Billionaire.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "39",
+          "watchedEpisodes": null,
+          "vc": "62.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2151/53798/76f90719/master.m3u8?hdnts=exp=1785365853~hmac=7aa1bec32fd27b68efbb0ad112c684d7034e014dd520ca696a4146d62ef5adde"
+      },
+      {
+        "id": "2188",
+        "title": "Trillionaire Vs Gold Digger",
+        "imageUrl": "https://cdn.storytv.asia/ta/Feb_2026/Trillionaire_Vs_Gold_Digger/Control_Variant/STV/360_480_Trillionaire_vs_Gold_Digger.webp",
+        "metadata": {
+          "genre": "Alpha Male",
+          "tags": [
+            "Hidden Identity"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "49",
+          "watchedEpisodes": null,
+          "vc": "65.1M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2188/54875/c736455e/master.m3u8?hdnts=exp=1785365853~hmac=e1a7f5590da71697371431d366fe1f08327f47dfe00554651c877210f8f999ca"
+      },
+      {
+        "id": "2316",
+        "title": "Naseeb Ka Raja",
+        "imageUrl": "https://cdn.storytv.asia/ta/March_2026/Naseeb_Ka_Raja/Control_Variant/STV/360_480_Naseeb_Ka_Raja.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Underdog Story",
+            "Wealth And Power",
+            "Karmic Justice",
+            "Divine Blessing",
+            "Destiny Vs Greed",
+            "Rise Of A King",
+            "Betrayal And Redemption",
+            "Money Vs Relationships",
+            "Ego Downfall",
+            "Comeback Story",
+            "Rich Lifestyle",
+            "Fate And Fortune",
+            "Emotional Dram"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "64",
+          "watchedEpisodes": null,
+          "vc": "71M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2316/66641/3455895f/master.m3u8?hdnts=exp=1785365853~hmac=2587f374854b756a60e6a406a1363b79d2359ba4df993b7e592256703aabe186"
+      },
+      {
+        "id": "2104",
+        "title": "Diamond Digger Wife",
+        "imageUrl": "https://cdn.storytv.asia/ta/Jan_2026/Diamond_Digger_Wife/Corrected/Control_variant/STV/360_480_Diamond_Digger_Wife.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "New and Hot"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "21.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2104/50742/31b1e3e3/master.m3u8?hdnts=exp=1785365853~hmac=d5a93e691f2cf317f1b14a05ca7caf8e7e9829577aabe4cec61cc3f27559df04"
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 20,
+      "sort": {
+        "empty": true,
+        "sorted": false,
+        "unsorted": true
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 20,
+    "size": 20,
+    "number": 0,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "first": true,
+    "numberOfElements": 20,
+    "empty": false
+  }
+}

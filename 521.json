@@ -1,0 +1,280 @@
+{
+  "code": 200,
+  "message": "Shows List",
+  "data": {
+    "content": [
+      {
+        "id": "3528",
+        "title": "Golden Junoon",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Golden_Junoon/CV/STV/360_480_Golden_Junoon.webp",
+        "metadata": {
+          "genre": "Alpha Male",
+          "tags": [
+            "Betrayal",
+            "Rags to Riches",
+            "Hidden Wealth",
+            "Revenge",
+            "Underdog Hero",
+            "Cheating Wife",
+            "Public Humiliation",
+            "Rise to Power",
+            "Secret Gold",
+            "Self-Made Millionaire",
+            "Romance",
+            "Crime & Corruption",
+            "Comeback",
+            "Success Revenge",
+            "Second Chance Love"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "58",
+          "watchedEpisodes": null,
+          "vc": "2.7M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3528/127930/68dd65f9/master.m3u8?hdnts=exp=1785365869~hmac=b8fca0be8ee782704eb79250d14067be64c009f65f2b58000fa0be978b08551e"
+      },
+      {
+        "id": "3349",
+        "title": "CEO Biwi Ka Dhokha",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/CEO_Biwi_Ka_Dhokha/CV/STV/360_480_CEO_Biwi_Ka_Dhokha.webp",
+        "metadata": {
+          "genre": "Alpha Male",
+          "tags": [
+            "Revenge",
+            "Betrayal",
+            "Infidelity",
+            "Cheating Wife",
+            "Hidden Identity",
+            "Divorce",
+            "Toxic Relationships",
+            "Love Triangle",
+            "Billionaire Heir",
+            "Secret Billionaire",
+            "CEO Drama",
+            "Gold Digger",
+            "Marriage Betrayal",
+            "Public Humiliation",
+            "Power Struggle",
+            "Rich Family",
+            "Second Chance",
+            "Sibling Rivalry"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "49",
+          "watchedEpisodes": null,
+          "vc": "17.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3349/113011/2a5fa93d/master.m3u8?hdnts=exp=1785365869~hmac=61b6da94b9eb84d4ba77c3ea5c09a275a4a48e8413c07e4ad15be0d0bae1ce00"
+      },
+      {
+        "id": "2764",
+        "title": "Mehenga Talaak, Sasti Shaadi",
+        "imageUrl": "https://cdn.storytv.asia/ta/May_2026/Mehenga_Talaak_Sasti_Shaadi/CV/STV/360_480_Mehenga_Talaak_Sasti_Shaadi.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Royalty Drama",
+            "Contract Marriage",
+            "Betrayal",
+            "Greed",
+            "Power Struggle",
+            "Land Mafia",
+            "Love After Betrayal",
+            "Second Chance Love",
+            "Mafia Connection",
+            "Fake Marriage",
+            ""
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "60",
+          "watchedEpisodes": null,
+          "vc": "28.9M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2764/95205/cafba449/master.m3u8?hdnts=exp=1785365869~hmac=bda9a95e24306d4b9cf65ceb803cda135768f12acd460e66ac5c8896e0a963c4"
+      },
+      {
+        "id": "3352",
+        "title": "Roadside Healer King",
+        "imageUrl": "https://cdn.storytv.asia/ta/Jan_2026/Roadside_Healer_King/CV/STV/360_480_Roadside_Healer_King.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "\"Supernatural Hidden Identity Romance Reunited Lovers Power Struggle Destiny / Fate\""
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "40",
+          "watchedEpisodes": null,
+          "vc": "21M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3352/116794/916e75d1/master.m3u8?hdnts=exp=1785365869~hmac=1f0ea6ec081025f311c920273b9e97e4d414759d20de43e308636776777c4ddb"
+      },
+      {
+        "id": "3359",
+        "title": "Mama Bhanja Zindabad",
+        "imageUrl": "https://cdn.storytv.asia/ta/June_2026/Mama_Bhanja_Zindabad/CV/STV/360_480_Mama_Bhanja_Zindabad.webp",
+        "metadata": {
+          "genre": "Billionaire CEO",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "50",
+          "watchedEpisodes": null,
+          "vc": "36.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3359/114509/1b4cb3c0/master.m3u8?hdnts=exp=1785365869~hmac=e075c0bbab6cae7b6df5ad6d71d8138c21d4ac5505d07c7d20cffe2dc75da2bc"
+      },
+      {
+        "id": "3531",
+        "title": "Intern vs CEO",
+        "imageUrl": "https://cdn.storytv.asia/ta/July_2026/Intern_vs_CEO/CV/STV/360_480_Intern_Vs_Ceo.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Popular",
+            "Trending"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "10.2M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3531/126782/419cdfdd/master.m3u8?hdnts=exp=1785365869~hmac=f1c6513eac8dc51c70b01c2733f4a4188b9c6feb59e73aa68ba04449c6e79a00"
+      },
+      {
+        "id": "2745",
+        "title": "Bhootni Ki Deal, Kismat Seal ",
+        "imageUrl": "https://cdn.storytv.asia/ta/April_2026/Bhootni_Ki_Deal_Kismat_Seal/CV/STV/360_480_Bhootni_Ki_Deal_Kismat_Seal.webp",
+        "metadata": {
+          "genre": "Rags to Riches",
+          "tags": [
+            "Supernatural Rags to Riches High-Stakes Game Revenge Drama Romance Power & Inheritance Battle"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "65.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2745/89345/2d52f585/master.m3u8?hdnts=exp=1785365869~hmac=4810f547b9648ada93ce5b3778eb8df802af60146c41ea9430f1a886923837c0"
+      },
+      {
+        "id": "3003",
+        "title": "Lucky Raja Ki Boss Rani",
+        "imageUrl": "https://cdn.storytv.asia/ta/May_2026/Lucky_Raja_Ki_Boss_Rani/CV/STV/360_480_Lucky_Raja_Ki_Boss_Rani.webp",
+        "metadata": {
+          "genre": "Supernatural",
+          "tags": [
+            "New and Hot"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "48",
+          "watchedEpisodes": null,
+          "vc": "67.3M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3003/104469/9d1ae5a1/master.m3u8?hdnts=exp=1785365869~hmac=605debbb7fee75c564aa12ddf7f87500f0af626e6d518a7895cad78c122b5b0d"
+      },
+      {
+        "id": "3232",
+        "title": "Hacker V/S Coder",
+        "imageUrl": "https://cdn.storytv.asia/ta/May_2026/Hacker_Vs_Coder/CV/STV/360_480_Hacker_vs_coder.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "Public Humiliation",
+            "Betrayal",
+            "New & Hot"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "51",
+          "watchedEpisodes": null,
+          "vc": "129.8M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/3232/106277/3253f765/master.m3u8?hdnts=exp=1785365869~hmac=66f9c43ac0a7ebd65e37809b1c0513c1e03936f16715aecbf277e02c96230eff"
+      },
+      {
+        "id": "2480",
+        "title": "Daulat Wala Delivery Boy",
+        "imageUrl": "https://cdn.storytv.asia/ta/March_2026/Daulat_Wala_Delivery_Boy/Control_Variant/STV/360_480_Daulat_Wala_Delivery_Boy.webp",
+        "metadata": {
+          "genre": "Hidden Identity",
+          "tags": [
+            "hidden identity billionaire delivery boy twist",
+            "simple man secretly wealth guru CEO reveal",
+            "betrayal in love revenge transformation arc",
+            "business tycoon domination mind game storyline",
+            "power reversal delivery boy to kingmaker",
+            "corporate rivalry humiliation comeback drama",
+            "contract marriage hidden identity romance conflict",
+            "Shivansh Kapoor genius billionaire disguise",
+            "emotional betrayal and justice arc",
+            "Indian trending billionaire revenge concept",
+            "social status reversal power struggle story",
+            "love power revenge triangle drama",
+            "underdog genius rise to empire control"
+          ],
+          "isOriginal": true
+        },
+        "watchInfo": {
+          "totalEpisodes": "61",
+          "watchedEpisodes": null,
+          "vc": "54.5M"
+        },
+        "numOfEpisodes": null,
+        "epUrl": "https://cdn.storytv.asia/tm/2480/75653/ca12c33f/master.m3u8?hdnts=exp=1785365869~hmac=f1d7c4c9905a39519fb38becb92670412df37a8599e91921febe00991e4cfae7"
+      }
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "empty": true,
+        "sorted": false,
+        "unsorted": true
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": true,
+    "totalPages": 1,
+    "totalElements": 10,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "first": true,
+    "numberOfElements": 10,
+    "empty": false
+  }
+}
