@@ -1,0 +1,119 @@
+const express = require('express');
+const cors = require('cors');
+const app = express();
+
+const PORT = process.env.PORT || 3000;
+
+// Middleware
+app.use(cors()); // Frontend / Cross-origin requests allow karne ke liye
+app.use(express.json());
+
+// JSON Files Import
+const subscriptionData = require('./subscription.json');
+const stateData = require('./state.json');
+const profileData = require('./profile.json');
+const detailsData = require('./details.json');
+const languageData = require('./languages.json');
+const cwData = require('./cw.json');
+const expData = require('./experiment.json');
+const structData = require('./struct.json');
+
+// List JSON Files
+const list10446 = require('./10446.json');
+const list10636 = require('./10636.json');
+const list10638 = require('./10638.json');
+
+// ---------------- USER SERVICE ENDPOINTS ----------------
+
+// 1. Subscription API
+app.get('/userservice/v1/profile/subscription', (req, res) => {
+    res.json(subscriptionData);
+});
+
+// 2. Subscription State API
+app.get('/userservice/v1/profile/subscription/state', (req, res) => {
+    res.json(stateData);
+});
+
+// 3. Profile API
+app.get('/userservice/v1/profile', (req, res) => {
+    res.json(profileData);
+});
+
+// 4. Languages API
+app.get('/userservice/v1/languages', (req, res) => {
+    res.json(languageData);
+});
+
+// 5. Experiments API
+app.get('/userservice/v1/experiments', (req, res) => {
+    res.json(expData);
+});
+
+// 6. Device Register API (POST Request)
+app.post('/userservice/v1/device/ids', (req, res) => {
+    const { fcmtoken } = req.body;
+    res.json({
+        status: "SUCCESS",
+        message: "Device registered successfully",
+        fcmtoken: fcmtoken || null
+    });
+});
+
+// ---------------- FEED SERVICE ENDPOINTS ----------------
+
+// 7. Category Details API
+app.get('/feedservice/v1/category/details', (req, res) => {
+    res.json(detailsData);
+});
+
+// 8. Continue Watching API
+app.get('/feedservice/v1/show/cw', (req, res) => {
+    res.json(cwData);
+});
+
+// 9. Homepage Structure API
+app.get('/feedservice/v1/homepage/struct', (req, res) => {
+    res.json(structData);
+});
+
+// 10. Dynamic Shows/Lists API (10446, 10636, 10638 etc.)
+app.get('/feedservice/v1/shows/:sectionId', (req, res) => {
+    const { sectionId } = req.params;
+
+    // Mapping section IDs to their JSON files
+    const showLists = {
+        '10446': list10446,
+        '10636': list10636,
+        '10638': list10638
+    };
+
+    if (showLists[sectionId]) {
+        res.json(showLists[sectionId]);
+    } else {
+        res.status(404).json({
+            status: "ERROR",
+            message: `Data for sectionId ${sectionId} not found`
+        });
+    }
+});
+
+// ---------------- ANALYTICS ENDPOINTS ----------------
+
+// 11. Impression Tracking API
+app.post('/analytics/v1/impression', (req, res) => {
+    res.json({
+        status: "SUCCESS",
+        message: "Impression tracked successfully"
+    });
+});
+
+// Health check endpoint (Render Server sleep alert check ke liye)
+app.get('/', (req, res) => {
+    res.send("API Server is running live!");
+});
+
+// Server Listening
+app.listen(PORT, () => {
+    console.log(`Server is running successfully on port ${PORT}`);
+});
