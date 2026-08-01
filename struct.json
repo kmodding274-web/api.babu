@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "message": "Home Page Layout",
+  "data": {
+    "sections": [
+      {
+        "id": "10636",
+        "lyt": "F1",
+        "atoScrl": false,
+        "btnover": "Watch Now"
+      },
+      {
+        "id": "10638",
+        "lyt": "VG2",
+        "acttxt": null,
+        "text": "Just Mod by @EliteMods_Hub",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "10639",
+        "lyt": "VG1",
+        "acttxt": null,
+        "text": "Top 10 On Story MAX",
+        "sBgG": false,
+        "sBgImg": "https://cdn.storymax.app/ma/hp/Top10_SMX2.webp"
+      },
+      {
+        "id": "10640",
+        "lyt": "VG2",
+        "acttxt": null,
+        "text": "Top Picks For You",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "10641",
+        "lyt": "TS1",
+        "acttxt": null,
+        "text": "Top 10 New Releases ",
+        "sBgG": false,
+        "sBgImg": null
+      },
+      {
+        "id": "10642",
+        "lyt": "AD2",
+        "acttxt": null,
+        "text": "Trending Dramas",
+        "sBgG": false,
+        "sBgImg": null
+      }
+    ]
+  }
+}
