@@ -1,0 +1,16 @@
+{
+  "name": "key-receiver-app",
+  "version": "1.0.0",
+  "description": "Express server to serve Key Receiver HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
